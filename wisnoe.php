@@ -2,7 +2,7 @@
 vc gofood
 <?php
 date_default_timezone_set('Asia/Jakarta');
-include "function.php";
+//include "function.php";
 echo color("red"," ===========================\n");
 echo color("red","| Claim Voucher Gojek|\n");
 echo color("red","| Auto create Gojek W Redeem voucher |\n");
